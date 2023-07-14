@@ -1,7 +1,7 @@
 '''NOTAS SECUNDARIAS'''
-#https://colab.research.google.com/drive/1XGnDH2ZB1v3daMYtwO7sXvigjPdtKh7_?authuser=1#scrollTo=oGLNGmg_Xp4y
-
+# https://colab.research.google.com/drive/1XGnDH2ZB1v3daMYtwO7sXvigjPdtKh7_?authuser=1#scrollTo=oGLNGmg_Xp4y
 # https://replit.com/join/gakarsznfk-renata-mouramou
+# códigos de uso dos métodos 
 
 """NOTAS DE NUMPY"""
      #ACESSO DE MATRIZES
@@ -68,7 +68,8 @@
 #PLOT (LIGAMENTO DE PONTOS)
   # x = np.arange(0,20)
   # y = np.random.randint(0,10,(20))
-  # plt.plot(x,y)
+  # plt.plot(x,y,'ro', linewidth=1)
+  # (abscissa,ordenada, 'inicial da cor e 'o', tamanho do ponto)
   # plt.show()
 
 #GRAFICO DE BARRAS (VERTICAL)
