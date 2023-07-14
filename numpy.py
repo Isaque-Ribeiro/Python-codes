@@ -101,9 +101,5 @@
   # plt.title(f'AAAAAA{i} AAAAA ')
   # plt.show()
 
-import numpy as np
-import matplotlib as plt
-
-x = np.arrange(0,10)
-y = x**2
-plt.plot(x,y)
+#APLICAÇÕES
+   #https://colab.research.google.com/drive/1gLBC6iHUtJ95HPYxzi6wc7LQUM2WGePY?authuser=2#scrollTo=dBA4D2qy74EN
