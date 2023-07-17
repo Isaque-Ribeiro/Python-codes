@@ -169,6 +169,9 @@ lista = [1, 2, 3, 4, 5]
 lista.remove(3)
 print(lista) # saida: [1, 2, 4, 5]
 
+elementos = set(lista)
+#mostra todos os elementos sem repeti-los 
+
 #listcomprehension - cria uma lista a partir de uma lista existente ou outra sequência já existente
 numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 pares = [num for num in numeros if num % 2 == 0]
@@ -190,7 +193,11 @@ dicionario.pop() #(chave) remove e retorna uma chave
 
 dicionario.popitem() # (chave,valor) remove e retorna um item dentro de uma chave
 
-dicionario.update() #
+dicionario.update() #adiciona um item
+
+dicionario.keys() # retorna as chaves do dicionário
+dicionário.values() # retorna os itens de cada chave
+dicionário.items() # retorna chave e valor
 
 #funções
 def definição():
@@ -234,7 +241,7 @@ opcoes = {
 
 # LEITURA DE ARQUIVOS
   #criando objeto
-   open(arquivo, acesso)
+   open('arquivo', 'acesso')
 
   #acessos
     #r - modo de leitura
