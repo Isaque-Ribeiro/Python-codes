@@ -52,6 +52,7 @@
 # matriz.max/min() -> retorna o máximo/mínimo da matriz ou os máximos/mínimos do eixo 'a'
 # matriz.cumsum() -> soma cumulativa
 # matriz.mean() -> media da matriz
+# np.median() -> Mediana da matriz ou array
 # matriz.std() -> desvio padrão da matriz
 
 # fom scipy.special import fatorial
