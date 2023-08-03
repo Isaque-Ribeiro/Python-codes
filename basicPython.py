@@ -1,6 +1,11 @@
 """
 Revisão - P1
 """
+'''EXEMPLOS DE APLICAÇÃO
+https://colab.research.google.com/drive/1ClYWZTyD99sdTNZ5DgT9hrTVzjeVBEdn?authuser=2#scrollTo=NPLFkla8uaEN
+'''
+
+
 #Input
 str = input('')
 int = int(input(''))
