@@ -1,7 +1,10 @@
-'''NOTAS SECUNDARIAS'''
+'''EMPLEMENTAÇÕES'''
 # https://colab.research.google.com/drive/1XGnDH2ZB1v3daMYtwO7sXvigjPdtKh7_?authuser=1#scrollTo=oGLNGmg_Xp4y
 # https://replit.com/join/gakarsznfk-renata-mouramou
 # códigos de uso dos métodos 
+
+#__________________________________________________________________________________________________________________________________________________________
+
 
 """NOTAS DE NUMPY"""
      #ACESSO DE MATRIZES
